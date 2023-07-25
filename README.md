@@ -1,4 +1,4 @@
-# "Exchanger" Currency exchange using requests and bs4
+# "Exchanger" Currency exchange created using Python3, requests and bs4
 
 # This project saves the currency of all countries and you can choose which one you want to switch to
 
